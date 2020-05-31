@@ -1,0 +1,7 @@
+pyaudio
+pyalsaaudio
+numpy
+matplotlib
+seaborn
+sounddevice
+bitstring
